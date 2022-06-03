@@ -1,0 +1,18 @@
+.input-container {
+    text-align: left;
+}
+
+input {
+    margin-top: .5rem;
+}
+
+p {
+    margin: 0;
+    margin-bottom: .25rem;
+    color: red;
+    font-size: .5rem;
+}
+
+button {
+    width: 100%;
+}
